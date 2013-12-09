@@ -1,0 +1,5 @@
+alias ls='ls -la --color=auto'
+
+#apt-get alias
+alias apt-get='sudo apt-get'
+
